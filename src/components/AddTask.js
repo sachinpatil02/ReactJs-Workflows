@@ -23,7 +23,7 @@ const Home = () => {
     <div className="container">
       <div className="py-4">
         <h1 class="text-white display-5">All Tasks</h1>
-        <table className="table table-responsive border shadow table-hover">
+        <table className="table border shadow table-hover">
           <thead className="thead-dark text-center">
             <tr>
               <th scope="col">#</th>
