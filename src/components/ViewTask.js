@@ -17,8 +17,8 @@ const Task = () => {
   };
   return (
     <div class="d-flex justify-content-center">
-    <div className="card col-8 p-5">
-      <Link className="btn btn-outline-primary col-3 pull-right mb-4" to="/tasks/add">
+    <div className="card col-md-8 col-sm-12 p-5">
+      <Link className="btn btn-outline-primary col-md-3 col-sm-6 pull-right mb-4" to="/tasks/add">
         back to Home
       </Link>
       <h1 className="display-5">Task Id: {id}</h1>

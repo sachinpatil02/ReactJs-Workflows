@@ -31,7 +31,7 @@ const EditTask = () => {
   };
   return (
     <div className="d-flex justify-content-center">
-      <div className="card col-8 p-5">
+      <div className="card col-md-8 col-sm-12 p-5">
         <h2 className="text-center mb-4">Update Task</h2>
         <form onSubmit={e => onSubmit(e)}>
           <div className="form-group">

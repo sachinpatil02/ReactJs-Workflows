@@ -10,7 +10,7 @@
       "userId": 1,
       "id": 19,
       "title": "Client Meeting at 11 AM",
-      "completed": "New"
+      "completed": "Pending"
     },
     {
       "userId": 1,
@@ -142,7 +142,7 @@
       "userId": 3,
       "id": 44,
       "title": "cum debitis quis accusamus doloremque ipsa natus sapiente omnis",
-      "completed": "Completed"
+      "completed": "Pending"
     },
     {
       "userId": 3,
@@ -178,12 +178,6 @@
       "userId": 3,
       "id": 51,
       "title": "distinctio exercitationem ab doloribus",
-      "completed": "Pending"
-    },
-    {
-      "userId": 3,
-      "id": 52,
-      "title": "nesciunt dolorum quis recusandae ad pariatur ratione",
       "completed": "Pending"
     },
     {
@@ -605,252 +599,6 @@
       "id": 128,
       "title": "eius omnis est qui voluptatem autem",
       "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 129,
-      "title": "rerum culpa quis harum",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 130,
-      "title": "nulla aliquid eveniet harum laborum libero alias ut unde",
-      "completed": "Completed"
-    },
-    {
-      "userId": 7,
-      "id": 131,
-      "title": "qui ea incidunt quis",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 132,
-      "title": "qui molestiae voluptatibus velit iure harum quisquam",
-      "completed": "Completed"
-    },
-    {
-      "userId": 7,
-      "id": 133,
-      "title": "et labore eos enim rerum consequatur sunt",
-      "completed": "Completed"
-    },
-    {
-      "userId": 7,
-      "id": 134,
-      "title": "molestiae doloribus et laborum quod ea",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 135,
-      "title": "facere ipsa nam eum voluptates reiciendis vero qui",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 136,
-      "title": "asperiores illo tempora fuga sed ut quasi adipisci",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 137,
-      "title": "qui sit non",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 138,
-      "title": "placeat minima consequatur rem qui ut",
-      "completed": "Completed"
-    },
-    {
-      "userId": 7,
-      "id": 139,
-      "title": "consequatur doloribus id possimus voluptas a voluptatem",
-      "completed": "Pending"
-    },
-    {
-      "userId": 7,
-      "id": 140,
-      "title": "aut consectetur in blanditiis deserunt quia sed laboriosam",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 141,
-      "title": "explicabo consectetur debitis voluptates quas quae culpa rerum non",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 142,
-      "title": "maiores accusantium architecto necessitatibus reiciendis ea aut",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 143,
-      "title": "eum non recusandae cupiditate animi",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 144,
-      "title": "ut eum exercitationem sint",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 145,
-      "title": "beatae qui ullam incidunt voluptatem non nisi aliquam",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 146,
-      "title": "molestiae suscipit ratione nihil odio libero impedit vero totam",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 147,
-      "title": "eum itaque quod reprehenderit et facilis dolor autem ut",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 148,
-      "title": "esse quas et quo quasi exercitationem",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 149,
-      "title": "animi voluptas quod perferendis est",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 150,
-      "title": "eos amet tempore laudantium fugit a",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 151,
-      "title": "accusamus adipisci dicta qui quo ea explicabo sed vero",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 152,
-      "title": "odit eligendi recusandae doloremque cumque non",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 153,
-      "title": "ea aperiam consequatur qui repellat eos",
-      "completed": "Pending"
-    },
-    {
-      "userId": 8,
-      "id": 154,
-      "title": "rerum non ex sapiente",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 155,
-      "title": "voluptatem nobis consequatur et assumenda magnam",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 156,
-      "title": "nam quia quia nulla repellat assumenda quibusdam sit nobis",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 157,
-      "title": "dolorem veniam quisquam deserunt repellendus",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 158,
-      "title": "debitis vitae delectus et harum accusamus aut deleniti a",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 159,
-      "title": "debitis adipisci quibusdam aliquam sed dolore ea praesentium nobis",
-      "completed": "Completed"
-    },
-    {
-      "userId": 8,
-      "id": 160,
-      "title": "et praesentium aliquam est",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 161,
-      "title": "ex hic consequuntur earum omnis alias ut occaecati culpa",
-      "completed": "Completed"
-    },
-    {
-      "userId": 9,
-      "id": 162,
-      "title": "omnis laboriosam molestias animi sunt dolore",
-      "completed": "Completed"
-    },
-    {
-      "userId": 9,
-      "id": 163,
-      "title": "natus corrupti maxime laudantium et voluptatem laboriosam odit",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 164,
-      "title": "reprehenderit quos aut aut consequatur est sed",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 165,
-      "title": "fugiat perferendis sed aut quidem",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 166,
-      "title": "quos quo possimus suscipit minima ut",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 167,
-      "title": "et quis minus quo a asperiores molestiae",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 168,
-      "title": "recusandae quia qui sunt libero",
-      "completed": "Pending"
-    },
-    {
-      "userId": 9,
-      "id": 169,
-      "title": "ea odio perferendis officiis",
-      "completed": "Completed"
     }
   ]
 }
