@@ -10,12 +10,12 @@ const Home = () => {
   }, []);
 
   const loadTasks = async () => {
-    const result = await axios.get("http://localhost:3003/tasks");
+    const result = await axios.get("https://react-js-workflows.vercel.app/tasks");
     setUser(result.data);
   };
 
   const deleteUser = async id => {
-    await axios.delete(`http://localhost:3003/tasks/${id}`);
+    await axios.delete(`https://react-js-workflows.vercel.app/tasks/${id}`);
     loadTasks();
   };
 

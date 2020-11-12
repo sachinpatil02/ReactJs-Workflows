@@ -21,12 +21,12 @@ const EditTask = () => {
 
   const onSubmit = async e => {
     e.preventDefault();
-    await axios.put(`http://localhost:3003/tasks/${id}`, task);
+    await axios.put(`https://react-js-workflows.vercel.app/tasks/${id}`, task);
     history.push("/tasks/add");
   };
 
   const loadTask = async () => {
-    const result = await axios.get(`http://localhost:3003/tasks/${id}`);
+    const result = await axios.get(`https://react-js-workflows.vercel.app/tasks/${id}`);
     setTask(result.data);
   };
   return (

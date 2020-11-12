@@ -12,7 +12,7 @@ const Task = () => {
     loadTask();
   }, []);
   const loadTask = async () => {
-    const res = await axios.get(`http://localhost:3003/tasks/${id}`);
+    const res = await axios.get(`https://react-js-workflows.vercel.app/tasks/${id}`);
     setTask(res.data);
   };
   return (
