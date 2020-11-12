@@ -22,8 +22,13 @@ const Home = () => {
   return (
     <div className="container">
       <div className="py-4">
+<<<<<<< HEAD
         <h1 className="text-white display-5">All Tasks</h1>
         <table className="table  border shadow table-hover">
+=======
+        <h1 class="text-white display-5">All Tasks</h1>
+        <table className="table border shadow table-hover">
+>>>>>>> 522299a3e697e5e4899c0f492a5312f3567a6f70
           <thead className="thead-dark text-center">
             <tr>
               <th scope="col">#</th>
