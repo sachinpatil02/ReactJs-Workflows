@@ -45,11 +45,11 @@ const EditTask = () => {
             />
           </div>
           
-            <div class="input-group mb-3">
-                <div class="input-group-prepend">
-                    <label class="input-group-text" for="inputGroupSelect01">State</label>
+            <div className="input-group mb-3">
+                <div className="input-group-prepend">
+                    <label className="input-group-text" for="inputGroupSelect01">State</label>
                 </div>
-                <select class="custom-select" name="completed" onChange={e => onInputChange(e)}>
+                <select className="custom-select" name="completed" onChange={e => onInputChange(e)}>
                     <option value={completed}>{completed}</option>
                     <option value="New">New</option>
                     <option value="Pending">Pending</option>
