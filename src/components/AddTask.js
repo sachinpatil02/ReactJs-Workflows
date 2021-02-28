@@ -10,7 +10,8 @@ const Home = () => {
   }, []);
 
   const loadTasks = async () => {
-    const result = await axios.get("http://localhost:3003/tasks");
+    //const result = await axios.get("http://localhost:3003/tasks");
+    const result = await axios.get(`https://jsonplaceholder.typicode.com/todos/tasks`);
     setUser(result.data);
   };
 
