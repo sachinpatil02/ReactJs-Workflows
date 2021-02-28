@@ -12,7 +12,8 @@ const Task = () => {
     loadTask();
   }, []);
   const loadTask = async () => {
-    const res = await axios.get(`http://localhost:3003/tasks/${id}`);
+    //const res = await axios.get(`http://localhost:3003/tasks/${id}`);
+    const res = await axios.get(`https://jsonplaceholder.typicode.com/todos/tasks/${id}`);
     setTask(res.data);
   };
   return (
